@@ -1,0 +1,35 @@
+
+
+body{
+  background-color: rgb(170, 205, 241);
+
+}
+
+.left img{
+   width: 100%;
+   height: 100%;
+ }
+
+
+ .error{
+     color: rgba(218, 9, 9, 0.589);
+     font-size:medium;
+     font-family:cursive;
+ }
+
+ textarea{
+   resize: none;
+ }
+
+ #invalid{
+   text-align: center;
+   font-size:x-large;
+ }
+
+ @media only screen and (max-width: 650px) {
+
+  .col-6{
+    width: 100%;
+  }
+
+}
